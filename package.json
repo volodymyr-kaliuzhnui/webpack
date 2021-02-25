@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gitspawn/webpack.git"
+    "url": "git+https://github.com/volodymyr-kaliuzhnui/webpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitspawn.github.io/webpack"
+    "url": "https://volodymyr-kaliuzhnui.github.io/webpack"
   },
-  "homepage": "https://gitspawn.github.io/webpack",
+  "homepage": "https://github.com/volodymyr-kaliuzhnui/deploying",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
